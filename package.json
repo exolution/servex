@@ -1,0 +1,40 @@
+{
+  "name": "servex",
+  "version": "0.12.7",
+  "main": "index.js",
+  "description": "A CoC simple VASM framework on Node.js",
+  "author": {
+    "name": "exolution",
+    "email": "exolution@163.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/exolution/servex"
+  },
+  "keywords": [
+    "web",
+    "app",
+    "http",
+    "application",
+    "framework",
+    "middleware",
+    "generator",
+    "yield"
+  ],
+  "dependencies": {
+    "body-parser": "*",
+    "send": "*",
+    "orm": "*",
+    "serve-static": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/exolution/servex/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "homepage": "https://github.com/exolution/servex",
+  "_id": "servex@0.12.1",
+  "scripts": {},
+  "_shasum": "16542d37382cc60ea2aa248cfacba12df14c926f",
+  "_from": "servex@*"
+}
