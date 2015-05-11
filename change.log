@@ -1,3 +1,5 @@
+0.12.11 add execQuery of model
+0.12.10 fix bugs
 0.12.9 fix bugs and add @release annotation
 0.12.8 add setTemplateEngine for set render engine
 0.12.7 Rewrite utils.getAllFiles
