@@ -1,3 +1,4 @@
+0.12.12 fix bug
 0.12.11 add execQuery of model
 0.12.10 fix bugs
 0.12.9 fix bugs and add @release annotation
@@ -6,6 +7,7 @@
        Add getAllJsFiles for get all javascript files excluding dotfiles
        Add _yell for dump context of Action,Service,Model,Filter,Router
        Add model generator
+
 0.12.6 Action add setCookie and removeCookie
 0.12.5 fix little bugs
 0.12.4 fix bugs
