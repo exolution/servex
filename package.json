@@ -1,6 +1,6 @@
 {
   "name": "servex",
-  "version": "0.12.13",
+  "version": "0.12.14",
   "main": "index.js",
   "description": "A CoC simple VASM framework on Node.js",
   "author": {
