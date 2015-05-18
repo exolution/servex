@@ -1,6 +1,7 @@
 0.12.15 refactor renderFilter and support action return a promise
         server will return 404 while action return nothing(undefined)
         fix a parseCookie bug when there is no cookie
+        update createModel for Model.js add testCase to generated model
 0.12.14
 0.12.13 不是我更新快 尼玛npm提交每次必须加版本号 所以再加个版本吧
 0.12.12 fix bug
