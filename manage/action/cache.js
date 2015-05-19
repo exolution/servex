@@ -35,7 +35,7 @@ exports.test2=function(id){
 //@Path(/servex-manager/cache/refresh/**:actionName)
 exports.updateStatic = function*(actionName, Request) {
     var updateList = yield Staticizer.refresh(actionName, Request.query.uri);
-    var host = Config.get('servex').host || 'http://127.0.0.1';
+    var host = Config.server.host || 'http://127.0.0.1';
     var removeErr=0;
 
     updateList=updateList.filter(function(result){
