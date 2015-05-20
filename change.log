@@ -1,3 +1,4 @@
+0.12.17 fix utils.post bug
 0.12.16 add utils.post
 0.12.15 refactor renderFilter and support action return a promise
         server will return 404 while action return nothing(undefined)
