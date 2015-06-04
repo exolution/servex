@@ -1,3 +1,4 @@
+0.12.20 add action method "setTemplateEngine" set null for cancel template render
 0.12.19 fix a Dependency injection bug!!
 0.12.18 fix commit
 0.12.17 fix utils.post bug
