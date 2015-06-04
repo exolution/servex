@@ -1,6 +1,6 @@
 {
   "name": "servex",
-  "version": "0.12.20",
+  "version": "0.12.21",
   "main": "index.js",
   "description": "A CoC simple VASM framework on Node.js",
   "author": {
@@ -33,8 +33,9 @@
   },
   "readme": "ERROR: No README data found!",
   "homepage": "https://github.com/exolution/servex",
-  "_id": "servex@0.12.1",
+  "_id": "servex@0.12.21",
   "scripts": {},
-  "_shasum": "16542d37382cc60ea2aa248cfacba12df14c926f",
-  "_from": "servex@*"
+  "_shasum": "e98632d82c89ca03a940d6666647a876eb4ec004",
+  "_from": "servex@0.12.21",
+  "gitHead": "b5c9a8099f67ed13a14da80b515594055a1c3682"
 }
