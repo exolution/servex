@@ -48,6 +48,7 @@ exports.updateStatic = function*(actionName, Request) {
         }
         return false;
     });
+
     var errNum=yield massRequest(host,updateList,20);
     return '更新缓存完成:\n更新缓存数:'+updateList.length+'\n删除缓存失败数:'+removeErr+'\n重建缓存失败数:'+errNum;
 };

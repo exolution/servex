@@ -1,3 +1,10 @@
+0.13.0 update yield and generator.you can yield a generator now
+0.12.29 add addContext for ActionInstance
+0.12.28 fix bug
+0.12.27
+0.12.26
+0.12.25
+0.12.24
 0.12.23 fix Utils.clone bug!!
 0.12.22 update Action Filters you can set $ indicate the position of internalFilter
 0.12.21 fix xparser bug
