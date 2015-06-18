@@ -1,3 +1,5 @@
+0.13.2 remove console.log replace with debug()
+0.13.1 update xparser class resolver
 0.13.0 update yield and generator.you can yield a generator now
 0.12.29 add addContext for ActionInstance
 0.12.28 fix bug
