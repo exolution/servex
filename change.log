@@ -1,3 +1,7 @@
+0.13.9 add updateOrSave to Model
+0.13.8 fix
+0.13.7 add Config reload
+0.13.6 add basePath
 0.13.4 fix xparser bug
 0.13.3 fix bugs
 0.13.2 remove console.log replace with debug()
