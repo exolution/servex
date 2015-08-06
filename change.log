@@ -1,3 +1,4 @@
+0.13.10 fix bug tryfile
 0.13.9 add updateOrSave to Model
 0.13.8 fix
 0.13.7 add Config reload
